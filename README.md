@@ -1,6 +1,9 @@
 # Git Demo Repo
 This is a Sample Repository / sample app for the Git course.
 
+## GUIs
+ * This change made by Visial Studio 2022 Community Edition
+ 
 ## How to work with Git
 1. git checkout main
 2. git pull
