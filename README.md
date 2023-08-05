@@ -3,6 +3,8 @@ This is a Sample Repository / sample app for the Git course.
 
 ## GUIs
  * This change made by Visial Studio 2022 Community Edition
+ * This change made by GitHub Desktop
+
  
 ## How to work with Git
 1. git checkout main
