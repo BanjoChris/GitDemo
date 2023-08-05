@@ -1,5 +1,5 @@
 # Git Demo Repo
-This is a Sample Repository for the Git course.
+This is a Sample Repository / sample app for the Git course.
 
 ## How to work with Git
 1. git checkout main
